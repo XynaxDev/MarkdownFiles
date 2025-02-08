@@ -1135,8 +1135,3 @@ File handling in Java refers to the process of reading from and writing to files
         }
     }
     ```
-
-<br><br><br><br><br><br><br><br>
-<p style= "text-align: center;color: red">
-      <strong> <span style="color: black;font-size: 26px">X</span><i>ynax</i> </strong>
-</footer>
